@@ -13,4 +13,10 @@ I am **Dhany**, a Frontend Developer Enthusiast proficient in TypeScript, well-v
 
 <div>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1samsoe&layout=compact&theme=react&hide=php&langs_count=6" />
+  <a href="https://wakatime.com/@dj1samsoe" target="_blank">
+          <img
+            height="150"
+            src="https://github-readme-stats.vercel.app/api/wakatime?username=dj1samsoe&layout=compact&theme=react&langs_count=6"
+          />
+        </a>
 </div>
