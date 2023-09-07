@@ -4,7 +4,7 @@ I am **Dhany**, a Frontend Developer Enthusiast proficient in TypeScript, well-v
 
 ### Find me
 
-[![](https://img.shields.io/badge/fauziandhany-07765B&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauziandhany/)
+[![](https://img.shields.io/badge/fauziandhany-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauziandhany/)
 <a href="mailto:dhanyh86@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dhanyh86-blue?style=flat-square&logo=email"></a>
 [![](https://komarev.com/ghpvc/?username=dj1samsoe&color=blue&label=Profile%20Views)](https://github.com/dj1samsoe/dj1samsoe)
 
