@@ -20,3 +20,4 @@ I am **Dhany**, a Frontend Developer Enthusiast proficient in TypeScript, well-v
           />
         </a>
 </div>
+<span><a href="https://github.com/dj1samsoe?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=dj1samsoe&show_icons=true&count_private=true&hide=contribs" /></a></span>
