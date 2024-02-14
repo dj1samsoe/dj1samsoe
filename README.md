@@ -1,4 +1,4 @@
-<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, There!</h1>
+<h1>Hi, There!</h1>
 
 I am **Dhany**, a Frontend Developer proficient in TypeScript, well-versed in popular frameworks such as [React JS](https://reactjs.org) and [Next JS](https://nextjs.org). Not just coding. I am passionate about creating clean and efficient code, automating testing code, and implementing modern design principles to deliver intuitive user experiences. I am always eager to learn new technologies and improve my skills.
 
